@@ -1,4 +1,7 @@
 # Kindora 🌱  
+
+![Logo](screenshots/logo.jpg)
+
 ### Reduce Food Waste • Help the Needy • Community Driven Platform
 
 🔗 **Live Website:**  
