@@ -1,6 +1,8 @@
 # Kindora 🌱  
 
-![Logo](screenshots/logo.jpg)
+<p align="center">
+  <img src="screenshots/logo.jpg" width="50%" />
+</p>
 
 ### Reduce Food Waste • Help the Needy • Community Driven Platform
 
@@ -30,7 +32,7 @@ This project focuses on:
 ## 👥 User Roles & Workflow
 
 ### 🔹 1. Donor Flow
-1. Login/Register to the platform
+1. Login / Register to the platform
 2. Donate:
    - 🍲 Food
    - 👕 Clothes
@@ -48,7 +50,7 @@ This project focuses on:
 ---
 
 ### 🔹 2. Member (Volunteer) Flow
-1. Update the Profile
+1. Update profile
 2. View **Nearby Donations** based on location
 3. Accept a donation
 4. View donor details and pickup location
@@ -86,39 +88,74 @@ This project focuses on:
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Homepage-1.png)
-![Home Page](screenshots/Homepage-2.png)
+<p align="center">
+  <a href="screenshots/Homepage-1.png">
+    <img src="screenshots/Homepage-1.png" width="45%" valign="top" />
+  </a>
+  <a href="screenshots/Homepage-2.png">
+    <img src="screenshots/Homepage-2.png" width="45%" valign="top" />
+  </a>
+</p>
+
+---
 
 ### 🔐 Authentication
-**Login**
-![Login](screenshots/Loginpage.png)
+<p align="center">
+  <a href="screenshots/Loginpage.png">
+    <img src="screenshots/Loginpage.png" width="40%" valign="top" />
+  </a>
+  <a href="screenshots/Registerpage.png">
+    <img src="screenshots/Registerpage.png" width="40%" valign="top" />
+  </a>
+</p>
 
-**Register**
-![Register](screenshots/Registerpage.png)
+---
 
-### 🍲 Donate Food
-![Food Donation](screenshots/Fooddonation.png)
+### 🍲 👕 🐶 Donation Pages
+<p align="center">
+  <a href="screenshots/Fooddonation.png">
+    <img src="screenshots/Fooddonation.png" width="30%" valign="top" />
+  </a>
+  <a href="screenshots/clothesdonation.png">
+    <img src="screenshots/clothesdonation.png" width="30%" valign="top" />
+  </a>
+  <a href="screenshots/animalfood.png">
+    <img src="screenshots/animalfood.png" width="30%" valign="top" />
+  </a>
+</p>
 
-### 👕 Donate Clothes
-![Clothes Donation](screenshots/clothesdonation.png)
+---
 
-### 🐶 Donate Animal Food
-![Animal Food](screenshots/animalfood.png)
+### 📊 Dashboards
+<p align="center">
+  <a href="screenshots/DonarDashboard.png">
+    <img src="screenshots/DonarDashboard.png" width="45%" valign="top" />
+  </a>
+  <a href="screenshots/MemberDashboard.png">
+    <img src="screenshots/MemberDashboard.png" width="45%" valign="top" />
+  </a>
+</p>
 
-### 📊 Donor Dashboard
-![Donor Dashboard](screenshots/DonarDashboard.png)
+---
 
-### 📊 Member Dashboard
-![Member Dashboard](screenshots/MemberDashboard.png)
+### 👤 Member Profile & Nearby Donations
+<p align="center">
+  <a href="screenshots/memberprofile.png">
+    <img src="screenshots/memberprofile.png" width="45%" valign="top" />
+  </a>
+  <a href="screenshots/Nearbydonation.png">
+    <img src="screenshots/Nearbydonation.png" width="45%" valign="top" />
+  </a>
+</p>
 
-### 👤 Member Profile
-![Member Profile](screenshots/memberprofile.png)
-
-### 📍 Nearby Donations
-![Nearby Donations](screenshots/Nearbydonation.png)
+---
 
 ### 📦 Donation Details
-![Donation Details](screenshots/Donardetails.png)
+<p align="center">
+  <a href="screenshots/Donardetails.png">
+    <img src="screenshots/Donardetails.png" width="55%" valign="top" />
+  </a>
+</p>
 
 ---
 
@@ -133,28 +170,27 @@ This project focuses on:
 
 ## 🔮 Future Enhancements
 
-Planned improvements for the next versions of **Kindora**:
+Planned improvements for future versions of **Kindora**:
 
 - 🔔 **Real-time notifications**
   - Notify donors when a member accepts a donation
   - Notify members when new nearby donations are available
 
-- 🔐 **OTP-based login & verification**
-  - Secure login using mobile number and OTP
-  - Reduced dependency on passwords
+- 🔐 **OTP-based login**
+  - Secure login using mobile number & OTP
 
 - 🗺️ **Google Maps API integration**
   - Exact real-time location tracking
-  - Improved route navigation for members
-  - Accurate distance-based donation matching
+  - Improved route navigation
+  - Accurate distance-based matching
 
 - 📱 **Mobile Application**
-  - Android application using the same backend
-  - Better accessibility for volunteers and donors
+  - Android app using the same backend
+  - Better accessibility for users
 
 - 🌍 **Play Store Deployment**
-  - Publish the Kindora app on Google Play Store
-  - Make the platform available globally
+  - Publish on Google Play Store
+  - Make the platform available worldwide
 
 ---
 
